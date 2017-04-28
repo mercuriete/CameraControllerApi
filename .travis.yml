@@ -13,9 +13,8 @@ addons:
       - libboost-dev
       - libboost-system-dev
       - libmicrohttpd-dev
-      - libghoto2-dev
+      - libghoto2-2-dev
       - libexif-dev
 
 script:
   - make VERBOSE=1
-
