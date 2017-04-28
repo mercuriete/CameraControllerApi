@@ -13,7 +13,7 @@ addons:
       - libboost-dev
       - libboost-system-dev
       - libmicrohttpd-dev
-      - libghoto2-dev
+      - libgphoto2-dev
       - libexif-dev
 
 script:
