@@ -14,7 +14,7 @@ addons:
       - libboost-system-dev
       - libmicrohttpd-dev
       - libgphoto2-dev
-      - libexif-dev
+      - libexiv2-dev
 
 script:
   - make VERBOSE=1
