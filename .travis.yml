@@ -5,11 +5,9 @@ sudo: false
 compiler:
   - gcc
 
-
 addons:
   apt:
     packages:
-      - g++
       - libboost-dev
       - libboost-system-dev
       - libmicrohttpd-dev
